@@ -99,7 +99,7 @@ If you want to use multi GPUs please specify multiple Device IDs (0,1,2...).
 ### SUN-RGBD(37 categories)
 |  Architecture   | Backbone | mIOU  |  PA   | Weight |
 |:---------------:|:---:|:-----:|:-----:| :---:|
-| DNCG | MiT-B2 | 50.3% | 83.0% | [SUN-RGBD-MiT-B2](https://drive.google.com/file/d/1hlyglGnEB0pnWXfHPtBtCGGlKMDh2K--/view?usp=sharing) |
+| DNCG | MiT-B2 | 50.3% | 83.0% | [SUN-RGBD-MiT-B2](https://drive.google.com/file/d/12qWolur6YAfyLD40PWYqnxgzWBr2OpER/view?usp=sharing) |
 
 
 [//]: # (## Publication)
